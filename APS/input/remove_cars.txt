@@ -1,0 +1,7 @@
+north:0C7QPTY
+south:JKILYM0
+east:LAUBTC0
+west:ZEX5K0A
+west:QT95UED
+north:GOGCE52
+south:ETCNTK2
